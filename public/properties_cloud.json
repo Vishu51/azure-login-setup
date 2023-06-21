@@ -1,0 +1,10 @@
+{
+    "serverIp":"stage00.common.solumesl.com",
+    "serverPort":"443",
+    "serverDomain":"/common/api/v2",
+    "subDomain":"/common",
+    "protocolType":"https",
+    "Dashboard_Release":1424,
+    "mapUrl":"https://stage00.common.solumesl.com:8080"
+
+ }
